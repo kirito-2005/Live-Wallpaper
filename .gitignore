@@ -1,0 +1,24 @@
+# Xcode
+.DS_Store
+*/build/
+*.derivedData
+*.xcuserstate
+project.xcworkspace/
+xcuserdata/
+*.xccheckout
+*.moved-aside
+*.pro
+*.essd
+*.ui
+
+# Swift Package Manager
+.build/
+
+# CocoaPods
+Pods/
+
+# User Data
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.pbuser
